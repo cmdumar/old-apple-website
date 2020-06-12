@@ -2,4 +2,40 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: sans-serif;
 }
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+li {
+  list-style: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+nav ul {
+  width: 845px;
+  display: table;
+  margin: 0 auto;
+  background-color: black;
+}
+
+.nav-item {
+  display: table-cell;
+  background: url('assets/nav-sprite.svg');
+}
+
+.item1 {
+  background-position: 0 10%;
+}
+
+.item2 {
+  background-position: 0 10%;
+}
+
+
