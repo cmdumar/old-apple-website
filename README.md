@@ -13,7 +13,7 @@ This project demonstrates the usage of different CSS background styling methods.
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/mohammadumar28/old-apple-website/8dccf75952044fda8ad5af6d2363e454bb8a7048/index.html)
+[Live Demo Link](https://determined-knuth-d7b3e7.netlify.app/)
 
 
 ## Getting Started
