@@ -1,20 +1,19 @@
-# Project Name
+# 2014 Apple Website Clone
 
-> One paragraph statement about the project.
+> A clone of the 2014 Apple website.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./screenshot.png)
 
-Additional description about the project and its features.
+This project demonstrates the usage of different CSS background styling methods.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML,
+- CSS,
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://rawcdn.githack.com/mohammadumar28/old-apple-website/8dccf75952044fda8ad5af6d2363e454bb8a7048/index.html)
 
 
 ## Getting Started
@@ -23,35 +22,18 @@ Additional description about the project and its features.
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+To get a local copy up and running download the repository and open the index.html file with a browser of your choice.
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Mohammad Umar**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@mohammadumar28](https://github.com/mohammadumar28)
 
-👤 **Author2**
+👤 **Mark Rode**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@m15e](https://github.com/m15e)
 
 ## 🤝 Contributing
 
@@ -65,9 +47,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Apple.com
+- The Odin Project
 
 ## 📝 License
 
