@@ -136,8 +136,24 @@ nav ul {
   color: white;
 }
 
-.search-input:focus {
+/* .search-input:focus {
   background: url(assets/search-black.svg) 12px no-repeat 3% center, transparent;
+} */
+
+.title {
+  max-width: 980px;
+  max-height: 104px;
+}
+
+.subhead {
+  max-width: 980px;
+  max-height: 82px;
+}
+
+.subhead-link {
+  background: url('assets/subhead-link.png');
+  width: 980px;
+  height: 64px;
 }
 
 .billboard {
@@ -181,4 +197,3 @@ aside ul li {
   width: 100%;
   
 }
-
