@@ -15,15 +15,9 @@ This project demonstrates the usage of different CSS background styling methods.
 
 [Live Demo Link](https://determined-knuth-d7b3e7.netlify.app/)
 
-
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running download the repository and open the index.html file with a browser of your choice.
-
 
 ## Authors
 
